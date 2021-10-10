@@ -1,0 +1,2 @@
+model_checkpoint_path: "/mnt/data/tf_tsm/new_ckpt2/model_ckpt"
+all_model_checkpoint_paths: "/mnt/data/tf_tsm/new_ckpt2/model_ckpt"
