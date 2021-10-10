@@ -1,1 +1,0 @@
-/usr/bin/c++ -march=armv8-a -fpermissive  CMakeFiles/zhouyi_cam.dir/fb_display.c.o CMakeFiles/zhouyi_cam.dir/main.cpp.o -o zhouyi_cam  -lopencv_core -lopencv_imgproc -lopencv_imgcodecs -lopencv_videoio -laipudrv 

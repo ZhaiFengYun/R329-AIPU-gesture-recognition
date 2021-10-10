@@ -1,3 +1,0 @@
-/root/zhouyi_test2/build/CMakeFiles/rebuild_cache.dir
-/root/zhouyi_test2/build/CMakeFiles/edit_cache.dir
-/root/zhouyi_test2/build/CMakeFiles/zhouyi_cam.dir
