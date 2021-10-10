@@ -1,13 +1,12 @@
 # R329-AIPU-gesture-recognition
+使用ARMCHINA神经网络加速器APIU实现27种动态手势识别
+演示地址：
+* [bilibili-gesture-recognition](https://www.bilibili.com/video/BV19Q4y1h744?share_source=copy_web)
 
-https://www.bilibili.com/video/BV19Q4y1h744?share_source=copy_web
 
 
 ![mahua](mahua-logo.jpg)
-##MaHua是什么?
-一个在线编辑markdown文档的编辑器
 
-##MaHua有哪些功能？
 
 * 方便的`导入导出`功能
     *  直接把一个markdown的文本文件拖放到当前这个页面就可以了
@@ -31,7 +30,7 @@ https://www.bilibili.com/video/BV19Q4y1h744?share_source=copy_web
 ##关于作者
 
 ```javascript
-var ihubo = {
+author= {
   Name  : "zhai fengyun",
   address: Yanshan University
  
